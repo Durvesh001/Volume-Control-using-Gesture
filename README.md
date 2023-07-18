@@ -17,3 +17,8 @@ The volume control is visualized through a graphical bar that represents the vol
 2. Improve the accuracy and robustness of hand detection and tracking.
 3. Add support for multiple hands and multi-gesture recognition.
 4. Create a graphical user interface (GUI) for a more user-friendly experience.
+
+5. Representation of working Code -
+6. ![image](https://github.com/Durvesh001/Volume-Control-using-Gesture/assets/75305014/522cb91d-b3f2-46f2-902a-0decf1b483b8)
+![image](https://github.com/Durvesh001/Volume-Control-using-Gesture/assets/75305014/5dbe0d14-0ef4-49f1-b7e5-df93d0dd563e)
+
